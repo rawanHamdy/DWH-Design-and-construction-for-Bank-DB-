@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eddc0165-2082-426a-8e96-5dcd7614590f)- Model and develop ‘bank_dwh’ Data Warehouse using star schema.
+- Model and develop ‘bank_dwh’ Data Warehouse using star schema.
 - Define a method to check and maintain the integrity between the fact and the dimensions (SQL).
 - Add a date dimension to the system to track the historical changes.
 - Design an SSIS project to populate the data from ‘bank’ transactional database into the new target data warehouse ‘bank_dwh’.
